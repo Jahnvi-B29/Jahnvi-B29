@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jahnvi-B29 ✨
+- 👋 Hi, I’m Jahnvi✨
 - 👀 I’m interested in coding and designing 😊.
 - 🌱 I’m currently learning Web Development ✌️.
 
